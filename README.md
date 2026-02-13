@@ -45,12 +45,13 @@ python conformance/equivalence_report.py
 
 ## Architecture
 
-This is **Layer 2** (governance validation) in a two-layer system:
+governance-validator is **Layer 2** of the Ethical-AI-Syndicate audit ecosystem:
 
 | Layer | Purpose | Repo |
 |-------|---------|------|
-| **1. Audit** | Record events, seal sessions | [ClawForge](https://github.com/Ethical-AI-Syndicate/clawforge) |
-| **2. Governance** | Validate workflows, enforce policies | **This repo** |
+| **1. Audit** | Event recording, session sealing | [ClawForge](https://github.com/Ethical-AI-Syndicate/clawforge) |
+| **2. Governance** | Policy validation | **This repo** |
+| **3. Application** | Complete MCP solution | [mcpcodex-v2](https://github.com/Ethical-AI-Syndicate/mcpcodex-v2) |
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for details.
 
