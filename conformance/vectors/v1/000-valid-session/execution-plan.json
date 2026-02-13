@@ -1,0 +1,10 @@
+{
+  "id": "ep-000-valid",
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "author": "test",
+  "objective": "Valid execution plan for testing",
+  "constraints": ["constraint1", "constraint2"],
+  "expectedOutputs": ["output1"],
+  "schemaVersion": "1.0.0"
+}

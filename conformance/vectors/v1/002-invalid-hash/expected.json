@@ -1,0 +1,15 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {
+      "code": "HASH_MISMATCH",
+      "artifactType": "execution-plan",
+      "path": "/execution-plan.json",
+      "message": "Hash mismatch: expected abc123, computed def456"
+    }
+  ]
+}

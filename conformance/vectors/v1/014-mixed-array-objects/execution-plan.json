@@ -1,0 +1,11 @@
+{
+  "id": "ep-mixed-test",
+  "objective": "Test mixed arrays and objects",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0",
+  "items": [1, {"a": 1}, "string", {"b": 2}]
+}

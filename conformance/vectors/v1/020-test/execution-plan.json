@@ -1,0 +1,11 @@
+{
+  "id": "ep-json-pointer",
+  "objective": "Test ~escape / json-pointer",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0",
+  "pointer": "/~0test/~1value"
+}

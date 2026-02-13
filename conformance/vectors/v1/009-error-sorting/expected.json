@@ -1,0 +1,27 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {
+      "code": "CANONICAL_INVALID",
+      "artifactType": "execution-plan",
+      "path": "/execution-plan.json",
+      "message": "Invalid canonical JSON"
+    },
+    {
+      "code": "HASH_MISMATCH",
+      "artifactType": "decision-lock",
+      "path": "/decision-lock.json",
+      "message": "Hash mismatch"
+    },
+    {
+      "code": "MISSING_REQUIRED_FIELD",
+      "artifactType": "sealed-package",
+      "path": "/sealed-change-package.json",
+      "message": "Missing required field"
+    }
+  ]
+}

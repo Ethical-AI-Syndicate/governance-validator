@@ -1,0 +1,23 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {
+    "evidenceChainTailHash": "tampered123"
+  },
+  "errors": [
+    {
+      "code": "CHAIN_HASH_MISMATCH",
+      "artifactType": "evidence-chain",
+      "path": "/events.json",
+      "message": "Sequence 3: hash_mismatch"
+    },
+    {
+      "code": "CHAIN_PREVHASH_MISMATCH",
+      "artifactType": "evidence-chain",
+      "path": "/events.json",
+      "message": "Sequence 4: prevHash_mismatch"
+    }
+  ]
+}

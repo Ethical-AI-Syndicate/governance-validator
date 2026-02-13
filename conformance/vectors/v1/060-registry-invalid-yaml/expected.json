@@ -1,0 +1,1 @@
+{"specVersion":"1.0.0","mode":"sealed-package","verdict":"fail","exitCode":1,"errors":[{"code":"EXT_REGISTRY_INVALID","message":"Extension registry invalid YAML"}]}

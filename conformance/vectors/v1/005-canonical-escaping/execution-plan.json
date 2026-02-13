@@ -1,0 +1,10 @@
+{
+  "id": "ep-escape-test",
+  "objective": "Test escapes: back\\slash, \"quote\", \n newline, \t tab, \u0000 null",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0"
+}

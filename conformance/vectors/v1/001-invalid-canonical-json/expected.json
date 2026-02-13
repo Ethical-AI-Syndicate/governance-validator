@@ -1,0 +1,15 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {
+      "code": "CANONICAL_INVALID",
+      "artifactType": "execution-plan",
+      "path": "/execution-plan.json",
+      "message": "Invalid canonical JSON: keys not sorted"
+    }
+  ]
+}

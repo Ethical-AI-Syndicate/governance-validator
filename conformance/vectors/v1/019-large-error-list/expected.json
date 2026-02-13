@@ -1,0 +1,14 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {"code": "CANONICAL_INVALID", "artifactType": "execution-plan", "path": "/ep.json", "message": "Error 1"},
+    {"code": "CANONICAL_INVALID", "artifactType": "decision-lock", "path": "/dl.json", "message": "Error 2"},
+    {"code": "HASH_MISMATCH", "artifactType": "execution-plan", "path": "/ep.json", "message": "Error 3"},
+    {"code": "HASH_MISMATCH", "artifactType": "sealed-package", "path": "/scp.json", "message": "Error 4"},
+    {"code": "MISSING_REQUIRED_FIELD", "artifactType": "execution-plan", "path": "/ep.json", "message": "Error 5"}
+  ]
+}

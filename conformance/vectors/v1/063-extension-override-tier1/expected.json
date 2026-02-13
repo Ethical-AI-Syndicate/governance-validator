@@ -1,0 +1,1 @@
+{"specVersion":"1.0.0","mode":"sealed-package","verdict":"fail","exitCode":1,"errors":[{"code":"EXT_TIER_VIOLATION","message":"Extension attempts Tier-1 override: hashAlgorithmOverride"}]}

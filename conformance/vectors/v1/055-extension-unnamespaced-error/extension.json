@@ -1,0 +1,6 @@
+{
+  "extensionId": "io.aisyndicate.test",
+  "artifactType": "test-artifact",
+  "schemaVersion": "1.0.0",
+  "errorCodes": ["BAD_CODE"]
+}

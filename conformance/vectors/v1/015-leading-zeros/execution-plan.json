@@ -1,0 +1,17 @@
+{
+  "id": "ep-numbers-test",
+  "objective": "Test number edge cases",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0",
+  "numbers": {
+    "leadingZero": 0.5,
+    "scientific": 1e10,
+    "negative": -42,
+    "zero": 0,
+    "large": 9007199254740991
+  }
+}

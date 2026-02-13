@@ -1,0 +1,15 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {
+      "code": "SPEC_VERSION_UNKNOWN",
+      "artifactType": "execution-plan",
+      "path": "/execution-plan.json",
+      "message": "Unknown specVersion: 99.99.99"
+    }
+  ]
+}

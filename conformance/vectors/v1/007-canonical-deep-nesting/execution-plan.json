@@ -1,0 +1,19 @@
+{
+  "id": "ep-deep-test",
+  "objective": "Test deep nesting",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0",
+  "level1": {
+    "z_key": {
+      "a_key": {
+        "m_key": {
+          "d_key": "value"
+        }
+      }
+    }
+  }
+}

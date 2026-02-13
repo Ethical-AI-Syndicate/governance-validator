@@ -1,0 +1,15 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {
+      "code": "EXTENSION_UNSUPPORTED",
+      "artifactType": "custom-artifact",
+      "path": "/custom.json",
+      "message": "Unknown extension type: ai.syndicate.custom"
+    }
+  ]
+}

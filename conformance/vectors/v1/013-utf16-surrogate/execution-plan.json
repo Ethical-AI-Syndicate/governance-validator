@@ -1,0 +1,10 @@
+{
+  "id": "ep-surrogate-test",
+  "objective": "Test UTF-16 surrogate pairs: 𝄞",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0"
+}

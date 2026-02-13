@@ -1,0 +1,26 @@
+# Extension Registry
+# Canonical registry for ClawForge protocol extensions
+# Format: YAML
+# Location: extensions/registry.yaml
+
+registryVersion: "1.0.0"
+specVersion: "1.0.0"
+updatedAt: "2026-02-13T00:00:00Z"
+
+extensions: []
+
+# Adding a new extension:
+# 1. Create extensions/<reverse-domain>/<artifact-type>/schema.json
+# 2. Add conformance vectors in extensions/<reverse-domain>/<artifact-type>/vectors/
+# 3. Add entry to this registry
+# 4. PR must pass extension validation CI
+
+# Extension entry format:
+# - extensionId: io.aisyndicate.<domain>.<artifact>
+#   artifactType: <artifact-type>
+#   schemaVersion: "x.y.z"
+#   status: active|deprecated|removed
+#   registeredAt: "YYYY-MM-DD"
+#   hashExclusions: []
+#   bindingTargets: []
+#   errorCodes: []

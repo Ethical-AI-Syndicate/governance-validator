@@ -1,0 +1,8 @@
+{
+  "extensionId": "io.aisyndicate.test",
+  "artifactType": "test-artifact",
+  "schemaVersion": "1.0.0",
+  "conformance": {
+    "vectorsRequired": 0
+  }
+}

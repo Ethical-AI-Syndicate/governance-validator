@@ -1,0 +1,12 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "fail",
+  "exitCode": 1,
+  "hashes": {},
+  "errors": [
+    {"code": "CANONICAL_INVALID", "artifactType": "execution-plan", "path": "/plan.json", "message": "Invalid JSON"},
+    {"code": "HASH_MISMATCH", "artifactType": "decision-lock", "path": "/lock.json", "message": "Hash mismatch"},
+    {"code": "MISSING_REQUIRED_FIELD", "artifactType": "sealed-package", "path": "/scp.json", "message": "Missing sealedAt"}
+  ]
+}

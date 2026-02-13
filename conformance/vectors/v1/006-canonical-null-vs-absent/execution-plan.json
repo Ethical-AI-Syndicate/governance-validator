@@ -1,0 +1,12 @@
+{
+  "id": "ep-null-test",
+  "objective": "Test null vs absent",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0",
+  "deprecatedField": null,
+  "optionalField": null
+}

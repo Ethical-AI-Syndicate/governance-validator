@@ -1,0 +1,12 @@
+{
+  "id": "ep-empty-test",
+  "objective": "Test empty arrays vs missing",
+  "author": "test",
+  "constraints": [],
+  "expectedOutputs": [],
+  "version": "1.0.0",
+  "createdAt": "2024-01-01T00:00:00Z",
+  "schemaVersion": "1.0.0",
+  "emptyArray": [],
+  "emptyObject": {}
+}

@@ -1,0 +1,10 @@
+{
+  "specVersion": "1.0.0",
+  "mode": "sealed-package",
+  "verdict": "pass",
+  "exitCode": 0,
+  "hashes": {
+    "planHash": "abc123"
+  },
+  "errors": []
+}
