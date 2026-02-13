@@ -76,6 +76,21 @@ Python ↔ TypeScript produces **byte-identical CNF**.
 
 **v1.0.0** - Core governance validator is feature-complete and stable.
 
+## Reference Implementation
+
+See **[mcpcodex-v2](https://github.com/Ethical-AI-Syndicate/mcpcodex-v2)** for a complete application using governance-validator:
+
+- Integration with ClawForge audit trails
+- Custom governance pack creation
+- Real-time validation workflows
+- Production deployment patterns
+
+**Use as blueprint for:**
+- Building your own audit applications
+- Integrating governance-validator
+- Creating custom governance packs
+- Production deployment
+
 ## License
 
 Proprietary. All rights reserved.
